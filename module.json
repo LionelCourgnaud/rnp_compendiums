@@ -1,0 +1,23 @@
+{
+  "id": "rnpcompendiums",
+  "title": "Rôle'n Play - Compendiums",
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "regles",
+      "label": "Règles",
+      "path": "packs/regles",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "RnP",
+      "flags": {}
+    }
+  ]
+}
